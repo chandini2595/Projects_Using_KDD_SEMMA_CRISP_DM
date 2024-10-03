@@ -1,4 +1,4 @@
-#**CRISP - DM**
+#CRISP - DM
 
 CRISP-DM stands for Cross-Industry Standard Process for Data Mining, a widely used methodology for data mining and machine learning projects. It provides a structured approach to planning and executing a data science project. The process consists of six major phases, which are iterative and adaptable to various project types. Here’s a brief overview of each phase:
 
