@@ -25,4 +25,5 @@ CRISP-DM stands for Cross-Industry Standard Process for Data Mining, a widely us
 6. Deployment:
    Involves making the results available in a practical and useful way.
    Key tasks: Create a deployment plan, generate reports, implement model monitoring, and ensure successful integration into the business.
+   
 CRISP-DM is an iterative process, meaning insights or issues found during one phase may lead to revisiting earlier phases.
