@@ -4,7 +4,7 @@
 \usepackage{graphicx}
 \usepackage{hyperref}
 
-\title{Mastering Data Mining with SEMMA: A Practical Guide with Python Implementation}
+\title{Mastering Data Mining with SEMMA: Iris Flower Classification}
 \author{Chandini Saisri Uppuganti \\
         San Jose State University \\
         \texttt{chandinisaisri.uppuganti@sjsu.edu}}
