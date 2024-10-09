@@ -13,3 +13,5 @@ The entire process follows the SEMMA framework:
 I have written medium article on this.
 
 Link: https://medium.com/@chandinisaisri.uppuganti/mastering-data-mining-with-semma-iris-flower-classification-4bdac23455b3
+
+Colab file: 
